@@ -1,6 +1,6 @@
 # 🎓 Student Records Manager
 
-This is a simple CRUD web app built with **Streamlit** and **Supabase** for managing student records.
+This is A Basic simple CRUD web app built with **Streamlit** and **Supabase** for managing student records.
 
 ## 🚀 Features
 
